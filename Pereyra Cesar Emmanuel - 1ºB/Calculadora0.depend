@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1504834759 source:c:\users\emma\desktop\calculadora0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"lib.h"
+
+1504835403 source:c:\users\emma\desktop\calculadora0\lib.c
+	"lib.h"
+
+1504810417 c:\users\emma\desktop\calculadora0\lib.h
+	<stdio.h>
+
+1504915025 source:c:\users\emma\desktop\tp_laboratorio_1\pereyra cesar emmanuel - 1ºb\lib.c
+	"lib.h"
+	<conio.h>
+
+1504912163 c:\users\emma\desktop\tp_laboratorio_1\pereyra cesar emmanuel - 1ºb\lib.h
+	<stdio.h>
+
+1504914817 source:c:\users\emma\desktop\tp_laboratorio_1\pereyra cesar emmanuel - 1ºb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"lib.h"
+
